@@ -2,6 +2,7 @@ Main class file - com.recipeFinder.RecipeRecommender
 
 Running the program - 
 Please run RecipeFinder.bat to execute the program.
+Please make sure lib folder is in the same directory as the RecipeFinder.bat file.
 
 Input -
 The RecipeRecommender class takes command line input. 
